@@ -1,5 +1,5 @@
-#ifndef MYLIST_H
-#define MYLIST_H
+#ifndef SRC_HPP
+#define SRC_HPP
 
 #include <stdexcept>
 
@@ -230,4 +230,4 @@ public:
     }
 };
 
-#endif // MYLIST_H
+#endif // SRC_HPP
